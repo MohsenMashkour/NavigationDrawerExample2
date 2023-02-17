@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item android:title="Home"
+            android:icon="@drawable/ic_home_24"
+            android:id="@+id/homeFragment"/>
+        <item android:title="Hotel"
+            android:icon="@drawable/ic_hotel_24"
+            android:id="@+id/hotelFragment"/>
+        <item
+            android:title="Ticket"
+            android:icon="@drawable/ic_ticket_24"
+            android:id="@+id/ticketFragment"/>
+
+    </group>
+
+</menu>
